@@ -1,8 +1,7 @@
+<img src="./imag.gif" width ="100%"/>
 <p align="center">
-        <h1 align="center">Hi<a href="https://imgur.com/0Wu17Kb"><img src="https://i.imgur.com/0Wu17Kb.png" title="source: imgur.com" width="16" /></a>, I'm KHALID <img src ="https://media.tenor.com/hG868R7hU3EAAAAC/berserk-gif.gif" width="40" /></h1>
-</p>
+        <h1 align="center">Hi</a>, I'm KHALID <img src ="https://media4.giphy.com/media/FaIr0BPP8eH9ZTm2pb/200w.gif?cid=ecf05e47y2275jmkbvzh7do97vj5223h843ukbp1kv3r7u61&ep=v1_videos_related&rid=200w.gif&ct=v" width="40" /></h1></p>
 
-[![MasterHead](https://64.media.tumblr.com/e8b963be8f4a1fedc257b689319bd306/6a9868f79fd02c36-3c/s1280x1920/8c20eef00943c19c66e8d32385786f08dc002aed.gif)](https://github.com/Its-Kaizen)
 <h3 align="center">A passionate software engineering student from Morocco 🇲🇦</h3>
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/81465929073340495/E6F64A1452B8609AB04A11E4FF5A20F3C208FB67/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-kaizen&label=Profile%20views&color=0e75b6&style=flat" alt="its-kaizen" /> </p>
